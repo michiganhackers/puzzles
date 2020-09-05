@@ -3,9 +3,9 @@ Fun and challenging logic/word/coding puzzles ("puzzle hunt" genre) for problem 
 
 ## Weekly Puzzle Challenge
 
-| Week        | Puzzle | Link | Notes |
-|-------------|--------|------|-------|
-| 9/11 - 9/17 |        |      |       |
+| Week        | Puzzle | Link | Solution |
+|-------------|--------|------|----------|
+| 9/11 - 9/17 |        |      |          |
 
 ### Rules
 - Unless otherwise specified, the answer to each puzzle is a single word or name in English.
