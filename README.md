@@ -18,3 +18,4 @@ Fun and challenging logic/word/coding puzzles ("puzzle hunt" genre) for problem 
 - [HackMIT 2020](https://command.hackmit.academy/)
 - [Mission Street Puzzles](https://missionstreetpuzzles.com/)
 - [CS50 Puzzle Day](https://cs50.harvard.edu/college/2020/fall/puzzles/)
+- [Puzzle Reference Guide](https://github.com/michiganhackers/puzzles/blob/master/puzzle-reference-guide.pdf)
