@@ -5,7 +5,7 @@ Fun and challenging logic/word/coding puzzles ("puzzle hunt" genre) for problem 
 
 | Week        | Puzzle | Link | Solution |
 |-------------|--------|------|----------|
-| 9/11 - 9/17 |        |      |          |
+| 9/10 - 9/17 |        |      |          |
 
 ### Rules
 - Unless otherwise specified, the answer to each puzzle is a single word or name in English.
