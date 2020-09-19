@@ -10,7 +10,7 @@ Fun and challenging logic/word/coding puzzles ("puzzle hunt" genre) for problem 
 ### Rules
 - Unless otherwise specified, the answer to each puzzle is a single word or name in English.
 - You may use the Internet or any other tools to help you solve the puzzles.
-- Submit your solution to the puzzles [here](https://forms.gle/c5FeVGtJptuWfXWX7). The first person to submit the correct solution for each weekly puzzle will get a $3 Amazon gift card!
+- Submit your solution to the puzzles [here](https://forms.gle/c5FeVGtJptuWfXWX7). One randomly chosen person to submit the correct solution for each weekly puzzle will get a $3 Amazon gift card!
 - Only one submission allowed per person per puzzle -- additional submissions after the first will not be counted.
 - Have fun!
 
