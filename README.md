@@ -5,14 +5,15 @@ Fun and challenging logic/word/coding puzzles ("puzzle hunt" genre) for problem 
 
 | Week        | Puzzle | Link | Solution |
 |-------------|--------|------|----------|
-| 9/17 - 9/24 | | | |
-| 9/10 - 9/17 | TI-84 Talk | https://drive.google.com/file/d/16UZWanEgGKNCsEjsZ4CbFo-mUGkQXglf/view |  |
+| 9/17 - 9/24 | Tabletop Tango | https://drive.google.com/file/d/1PIfca3-ABNM53IQwHn6BbsYenjtQIxMP/view | |
+| 9/10 - 9/17 | TI-84 Talk | https://drive.google.com/file/d/16UZWanEgGKNCsEjsZ4CbFo-mUGkQXglf/view | LEGIBLE |
 
 ### Rules
 - Unless otherwise specified, the answer to each puzzle is a single word or name in English.
 - You may use the Internet or any other tools to help you solve the puzzles.
 - Submit your solution to the puzzles [here](https://forms.gle/c5FeVGtJptuWfXWX7). One randomly chosen person to submit the correct solution for each weekly puzzle will get a $3 Amazon gift card!
 - Only one submission allowed per person per puzzle -- additional submissions after the first will not be counted.
+- If you're curious about a puzzle solution, feel free to ask about it in [#puzzles-core](https://michiganhackers.slack.com/channels/puzzles-core)!
 - Have fun!
 
 ## Resources
