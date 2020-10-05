@@ -5,7 +5,7 @@ Fun and challenging logic/word/coding puzzles ("puzzle hunt" genre) for problem 
 
 | Week         | Puzzle | Link | Solution |
 |--------------|--------|------|----------|
-| 10/4 - 10/11 | Robot Lab | http://robots.bpuzzled.io/ | (Hint: two words) |
+| 10/4 - 10/11 | Robot Lab (BPuzzled) | http://robots.bpuzzled.io/ | (Hint: two words) |
 | 9/27 - 10/4  | Planning Commission (CS50 Puzzle Day) | https://drive.google.com/file/d/13u4s6VT-IFrYxtCBq-YZMJRV69EXv8-Z/view?usp=sharing | ALPHA CENTAURI |
 | 9/20 - 9/27  | Tabletop Tango | https://drive.google.com/file/d/1PIfca3-ABNM53IQwHn6BbsYenjtQIxMP/view | CHECKMATE |
 | 9/13 - 9/20  | TI-84 Talk | https://drive.google.com/file/d/16UZWanEgGKNCsEjsZ4CbFo-mUGkQXglf/view | LEGIBLE |
