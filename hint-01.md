@@ -1,0 +1,1 @@
+Play the game! Once you've finished the game, notice that you have a list of last names of famous roboticists. Find their first names, and perform all the transformations in the order of their first names. (See the puzzle for what to use as input and what to use for some of the transformation numbers!)
