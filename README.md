@@ -5,7 +5,8 @@ Fun and challenging logic/word/coding puzzles ("puzzle hunt" genre) for problem 
 
 | Week          | Puzzle | Link | Solution |
 |---------------|--------|------|----------|
-| 10/11 - 10/18 | Rainbow Matryoshka (Mission Street) | https://missionstreetpuzzles.com/wp-content/uploads/2020/08/Rainbow_Matryoshka.jpg | (Hint: two words) |
+| 10/18 - 10/25 | Headlines | https://drive.google.com/file/d/1QXFHenyWb3KsWWEsnEneQYQC8ri09bgU/view?usp=sharing |  |
+| 10/11 - 10/18 | Rainbow Matryoshka (Mission Street) | https://missionstreetpuzzles.com/wp-content/uploads/2020/08/Rainbow_Matryoshka.jpg | CENTENNIAL WHEEL |
 | 10/4 - 10/11  | Robot Lab (BPuzzled) | http://robots.bpuzzled.io/ | TREND LINES |
 | 9/27 - 10/4   | Planning Commission (CS50 Puzzle Day) | https://drive.google.com/file/d/13u4s6VT-IFrYxtCBq-YZMJRV69EXv8-Z/view?usp=sharing | ALPHA CENTAURI |
 | 9/20 - 9/27   | Tabletop Tango | https://drive.google.com/file/d/1PIfca3-ABNM53IQwHn6BbsYenjtQIxMP/view | CHECKMATE |
