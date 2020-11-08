@@ -5,7 +5,8 @@ Fun and challenging logic/word/coding puzzles ("puzzle hunt" genre) for problem 
 
 | Week          | Puzzle | Link | Solution |
 |---------------|--------|------|----------|
-| 11/1 - 11/8   | Trick or Treat | https://missionstreetpuzzles.com/wp-content/uploads/2020/08/Trick_or_Treat.pdf | (Hint: 3 words) |
+| 11/8 - 11/15  | NYC Food Tour | https://drive.google.com/file/d/1UEeuzBdmVbE2AdEhQJXqIWNwUAQM8SWM/view?usp=sharing |  |
+| 11/1 - 11/8   | Trick or Treat | https://missionstreetpuzzles.com/wp-content/uploads/2020/08/Trick_or_Treat.pdf | GREEN BANK TELESCOPE |
 | 10/18 - 10/25 | Headlines | https://drive.google.com/file/d/1QXFHenyWb3KsWWEsnEneQYQC8ri09bgU/view?usp=sharing | CAMP NOU |
 | 10/11 - 10/18 | Rainbow Matryoshka (Mission Street) | https://missionstreetpuzzles.com/wp-content/uploads/2020/08/Rainbow_Matryoshka.jpg | CENTENNIAL WHEEL |
 | 10/4 - 10/11  | Robot Lab (BPuzzled) | http://robots.bpuzzled.io/ | TREND LINES |
