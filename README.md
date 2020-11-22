@@ -5,7 +5,8 @@ Fun and challenging logic/word/coding puzzles ("puzzle hunt" genre) for problem 
 
 | Week          | Puzzle | Link | Solution |
 |---------------|--------|------|----------|
-| 11/15 - 11/22 | Mouse Wants Cheese | https://missionstreetpuzzles.com/mouse-wants-cheese/ | |
+| 11/22 - 11/29 | Mathmoji | https://drive.google.com/file/d/1RkcWo76rbQjjqG5Ig1Neh4vDyNtxa8CR/view?usp=sharing | |
+| 11/15 - 11/22 | Mouse Wants Cheese | https://missionstreetpuzzles.com/mouse-wants-cheese/ | CHEESE BOUTIQUE |
 | 11/8 - 11/15  | NYC Food Tour | https://drive.google.com/file/d/1UEeuzBdmVbE2AdEhQJXqIWNwUAQM8SWM/view?usp=sharing | KATZ |
 | 11/1 - 11/8   | Trick or Treat | https://missionstreetpuzzles.com/wp-content/uploads/2020/08/Trick_or_Treat.pdf | GREEN BANK TELESCOPE |
 | 10/18 - 10/25 | Headlines | https://drive.google.com/file/d/1QXFHenyWb3KsWWEsnEneQYQC8ri09bgU/view?usp=sharing | CAMP NOU |
