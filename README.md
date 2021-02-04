@@ -5,7 +5,7 @@ Fun and challenging logic/word/coding puzzles ("puzzle hunt" genre) for problem 
 
 | Week          | Puzzle | Link | Solution |
 |---------------|--------|------|----------|
-| 2/4 - 2/11    | A Hidden Message | https://drive.google.com/file/d/1icn741vpV4qgvbV6S2Frhox_Im1xwH3v/view?usp=sharing | |
+| 2/4 - 2/18    | A Hidden Message | https://drive.google.com/file/d/1icn741vpV4qgvbV6S2Frhox_Im1xwH3v/view?usp=sharing | |
 | 11/29 - 12/6  | Mathmoji | https://drive.google.com/file/d/1RkcWo76rbQjjqG5Ig1Neh4vDyNtxa8CR/view?usp=sharing | DECADE |
 | 11/15 - 11/22 | Mouse Wants Cheese | https://missionstreetpuzzles.com/mouse-wants-cheese/ | CHEESE BOUTIQUE |
 | 11/8 - 11/15  | NYC Food Tour | https://drive.google.com/file/d/1UEeuzBdmVbE2AdEhQJXqIWNwUAQM8SWM/view?usp=sharing | KATZ |
